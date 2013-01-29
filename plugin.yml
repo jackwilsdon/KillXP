@@ -1,0 +1,6 @@
+name: "KillXP"
+main: "com.jackwilsdon.KillXP.KillPlugin"
+version: "1.0"
+description: "Adjust your player's XP drops!"
+author: "Jack Wilsdon (jackwilsdon)"
+website: "http://jackwilsdon.tk"

@@ -1,0 +1,7 @@
+# KillXP Configuration
+KillXP:
+  drop-on-pvp:
+    drop-xp: false
+    killer-xp-given: 10
+  drop-on-death:
+    drop-xp: false
